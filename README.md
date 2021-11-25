@@ -2,7 +2,7 @@
 
 An application that will optimize energy consumption
 
--> an attempt to create the most optimal solution for charging and discharging energy from energy storage
+-> an attempt to create the most optimal solution for charging and discharging energy from energy storage in order to minimize the deviation of power demand in one day
 
 -> diagram display (as straight a line as possible)
 
